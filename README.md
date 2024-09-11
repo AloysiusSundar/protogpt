@@ -1,2 +1,1 @@
-# protogpt
-A custom nano version of a Generative Pre-trained Transformer (GPT) language model, a type of large language model (LLM), with post-layer normalization. By leveraging core principles of the Transformer architecture, including multi-head self-attention, feed-forward layers, and token embeddings. 
+LLM applies normalization after each layer to enhance training stability. The model is designed to generate text and predict the next token in a sequence, offering a practical approach to understanding and implementing foundational techniques in generative language modeling, based on "Attention is All You Need". Uses Post-Layer LN similar to GPT-2 and 3. 
